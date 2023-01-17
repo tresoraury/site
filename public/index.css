@@ -200,7 +200,13 @@ a {
                 width: 180px;
             }
             
-			
+            .bullshit{
+                color: red;
+            }
+			p{
+                text-indent: 0px;
+            }
+            
 
 
 /* ================================= 
