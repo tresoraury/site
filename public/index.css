@@ -206,6 +206,22 @@ a {
 			p{
                 text-indent: 0px;
             }
+            .underline{
+                height: 04px;
+                width: 7em;
+                background-color: #35312f;
+                margin-top: 10px;
+                margin-bottom: 10px;
+                margin-left: 40px;
+            }
+            .btn{
+                background-color: #f76c2f;
+                height: 30px;
+                width: 10em;
+            }
+            .rates{
+                text-indent: 700px;
+            }
             
 
 
