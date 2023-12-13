@@ -37,7 +37,7 @@ ul {
 h2,
 h3,
 a {
-	color: #34495e;
+	color: white;
 }
 
 a {
@@ -156,7 +156,7 @@ a {
                 height: 70px;
             }
             ::placeholder{
-                color: black;
+                color: white;
             }
             h4{
                 text-indent: 100px;
